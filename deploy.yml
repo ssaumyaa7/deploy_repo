@@ -17,4 +17,4 @@ spec:
   spec:
     containers:
     - name: myweb-image
-      image: ssaumyaa7/kubectl:v1
+      image: ssaumyaa7/httpd:v1
